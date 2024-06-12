@@ -1,0 +1,65 @@
+---
+title: "Lista de Perguntas Frequentes (FAQ)"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+**1. Qual a data limite para envio do vídeo-pôster?**
+
+R. A data limite para envio do vídeo-pôster é 20/10/2021, em caso de prorrogação será enviado por e-mail o novo prazo, assim como, divulgado no site do evento.
+
+
+**2. Para qual endereço eu devo enviar o vídeo-pôster?**
+
+R. Através do formulário disponível [neste link](https://forms.gle/i3we1vpZcui34niL7).
+
+
+**3. Quais são as regras para produção do vídeo-pôster?**
+
+R. As regras para a elaboração da modalidade de apresentação vídeo-pôster estão descritas no site: https://sicam.com.br/tutorial-video-poster/
+
+
+**4. Já submeti o resumo, ainda assim é necessário eu me inscrever no evento?**
+
+R. O autor responsável pela submissão do resumo ao IV SICAM, ou seja, aquele que preencheu o formulário para enviar o resumo já está automaticamente inscrito. Para todos os demais autores e interessados em participar, as inscrições ficarão abertas até o dia 25/10/2021 (https://sicam.com.br/).
+
+
+**5. Quais são as regras para apresentação oral?**
+
+R. A apresentação será virtual, por meio de videoconferência na plataforma Zoom. Serão 10 minutos para apresentação pelos autores e 5 minutos destinados para comentários e perguntas sobre o trabalho apresentado.Durante a apresentação, o apresentador compartilhará a sua tela para exibição de conteúdo se assim houver, como apresentação de slides ou qualquer outro conteúdo midiático. A extensão do arquivo da apresentação ficará a critério do apresentador (.pptx, .ppt, LaTeX, .pdf, etc..).
+No site do SICAM há um template (seu uso é opcional) para a criação de slides
+([clique aqui para acessar o template](https://docs.google.com/presentation/d/17YlmCZSIxFgySethYKAhaKM7Hp5Q45JFzdi6oo-lMG8/edit#slide=id.gf6bf49a1ca_0_167))
+ 
+
+**6. Como terei acesso a transmissão das mesas redondas?**
+
+R. Ao realizar a inscrição no evento (link abaixo), você cadastrará o seu endereço de email no formulário, para o qual será enviado o link que permitirá o acesso virtual tanto às mesas redondas quanto aos GTs do evento. [Acesse o link inscrição aqui](https://docs.google.com/forms/d/e/1FAIpQLSe58i99mLKKrdrx6rjxZXjE1s0LQdQdwxv54Q_DTbh8kuTEkA/viewform).
+
+**7. Não submeti resumo aos GTs, mas gostaria de assistir as apresentações. Como posso proceder?**
+
+R. Ao realizar a inscrição no evento (link abaixo), você receberá um endereço pelo email cadastrado no formulário, que permitirá o acesso virtual tanto às mesas redondas quanto aos GTs do evento e à Plenária Geral.
+[Acesse o link inscrição aqui](https://docs.google.com/forms/d/e/1FAIpQLSe58i99mLKKrdrx6rjxZXjE1s0LQdQdwxv54Q_DTbh8kuTEkA/viewform).
+
+
+**8. O evento cobra taxa de inscrição?**
+
+R. Não, o evento é totalmente gratuito.
+
+
+**9. O evento emitirá certificado de participação?**
+
+R. Sim, o evento emitirá certificado de participação para inscritos e para autores. O certificado de participante será individual. Aos que submeteram resumos que foram aprovados, o certificado será emitido em nome de todos os autores listados no trabalho (tanto na modalidade Apresentação Oral como Vídeo-pôster).
+
+
+**10. Como os participantes do evento poderão assistir aos vídeos-poster?**
+
+R. Um teaser de um minuto de todos os video-poster serão exibidos em forma de vinheta, diariamente, no Cafezinho com Video-Poster, das 13:00 as 14:00 (no link da sala virtual principal do Simpósio).
+Os video-poster na íntegra serão disponibilizados no nosso [canal do YouTube](https://www.youtube.com/channel/UCHzIFGixQBeL2zvAdo35O7A/featured) e no [site do SICAM](https://sicam.com.br/)
+
+
+**Para mais informações entre em contato pelo e-mail: sicam.iee.usp@gmail.com**

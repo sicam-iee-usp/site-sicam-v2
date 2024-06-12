@@ -1,0 +1,62 @@
+---
+title: "Regras Gerais para Apresentação Oral"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+A data para a apresentação oral dos trabalhos aprovados ocorrerá no dia em que GT, para o qual o resumo foi submetidos irá acontecer:
+
+ 
+
+**25/10: GT1, GT2, GT3 e GT4**
+
+**26/10: GT5, GT6/7 e GT8** (ATENÇÃO: Os GTs 6 e 7 foram unificados).
+
+**27/10: GT9/11 e GT10** (ATENÇÃO: Os GTs 9 e 11 foram unificados).
+
+\
+
+Os GTs irão ocorrer a partir das **15:00**. É importante que os autores/ apresentadores  estejam na sala virtual com  pelo menos 10 minutos de antecedência do início das atividades do dia. 
+
+ 
+
+**Importante:**
+
+As 15:00h é o horário previsto para a sessão de apresentação oral de trabalhos, mas fiquem atentos a programação do III SICAM, pois antes irão ocorrer mesas redondas e outras atividades que deixarão esse evento imperdível.
+
+ 
+
+**O link para acessar a sala virtual da sessão de apresentação de trabalhos será enviado aos autores, através do  e-mail cadastrado no formulário de inscrição/ submissão.**
+
+\
+
+Cada apresentação deve ter, no máximo, **10 minutos de duração**. Ao finalizar sua fala, haverá um breve momento para debate e perguntas  entre os membros do GT e os autores.
+
+ 
+
+Criamos um template **opcional** para a apresentação de slides, que está disponível [ neste link](https://docs.google.com/presentation/d/17YlmCZSIxFgySethYKAhaKM7Hp5Q45JFzdi6oo-lMG8/edit#slide=id.p).
+
+\
+
+**Atenção:**
+
+Ressaltamos que os autores/ apresentadores serão responsáveis pela sua própria apresentação (os autores/ apresentadores compartilharão a sua  tela de computador para a sala virtual para que todos possam visualizar a apresentação). Por esse motivo, você não precisa nos enviar nenhum material com antecedência. Mas, é de extrema importância que você teste todos os recursos de sua apresentação e se certifique de que todos estão em bom funcionamento (como áudios, vídeos e animações), assim como sua conexão de internet. Como você vai apresentar seus slides do seu próprio computador, não se preocupe com a extensão do arquivo (pode ser em .pptx, .ppt, LaTex, .pdf entre outros). 
+
+\
+
+A programação detalhada estará em nosso site em breve, onde será possível conferir todos os trabalhos que serão apresentados nos GTs e o horário previsto para sua apresentação. **Fique atento à programação, pois seu trabalho pode ter sido remanejado de GT**.
+
+\
+
+Alertamos que o horário de apresentação está sujeito a alterações, por isso, é importante os  autores/apresentadores  estarem disponíveis durante todo o horário da sessão de apresentação dos trabalhos. 
+
+ 
+
+A emissão do seu certificado de apresentação está condicionada à apresentação do seu trabalho.
+
+O evento ainda contará com uma Plenária Geral, ao final de cada dia do Simpósio: um espaço para dialogar com um público amplo sobre as temáticas de cada GT (sessão de apresentação de trabalhos). É importante que os autores/ apresentadores participem podem surgir dúvidas e comentários a respeito do seu trabalho. 

@@ -1,0 +1,43 @@
+/* css styles */
+
+.quarto-title-banner {
+  margin-bottom: 1em;
+  color: #ffffff;
+  background: #304387;
+}
+
+.quarto-title-banner h1, .quarto-title-banner .h1, .quarto-title-banner h2, .quarto-title-banner .h2 {
+  color: #ffffff;
+}
+
+.navbar {
+  background-color: #304387;
+  color: #ffffff;
+}
+
+.navbar, .navbar[data-bs-theme="dark"] {
+  --bs-navbar-color: #ffffff;
+  --bs-navbar-hover-color: #d88a3f;
+  --bs-navbar-disabled-color: rgba(84, 85, 85, 0.75);
+  --bs-navbar-active-color: #d88a3f;
+  --bs-navbar-brand-color: #ffffff;
+  --bs-navbar-brand-hover-color: #d88a3f;
+  --bs-navbar-toggler-border-color: rgba(84, 85, 85, 0);
+}
+
+.nav-footer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  text-align: center;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+  background-color: #304387;
+  color: #ffffff;
+}
+
+.quarto-grid-item p.card-img-top > img {
+  object-fit: contain;
+}

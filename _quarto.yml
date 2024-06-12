@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: "docs/"
+  resources: 
+    - "*.pdf"
+    - "img/*"
+
+website:
+  title: "V SICAM"
+  page-footer:
+    center: "V Simpósio Interdisciplinar de Ciência Ambiental - 2024" 
+    border: true
+    background: dark
+  navbar:
+    right:
+      - text: "Página inicial"
+        href: /index.qmd
+      - text: "Sobre o SICAM"
+        menu:
+          - sobre-o-evento.qmd
+          - equipe.qmd
+      - text: "Participe"
+        menu: 
+        - submissao.qmd    
+      - edicoes-anteriores.qmd
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+
+lang: pt

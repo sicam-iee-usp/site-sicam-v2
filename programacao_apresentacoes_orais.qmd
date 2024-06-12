@@ -1,0 +1,204 @@
+---
+title: "Programação completa"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(magrittr)
+library(reactable)
+```
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+
+
+
+```{r echo=FALSE}
+tabela_programacao <- tibble::tribble(
+~GT, ~Dia,  ~`Horário de Início`, ~`codigo`,  ~`Título`, ~`Autores`, ~`Resumo`,
+ 
+"1", "25/10/2021", "15:40",  "G01-021-I0137", "Candidatos Pela Vida: Mortes Indígenas Estimulam A Participação Política De Povos Nativos?", "Matheus Valentim; Fernando Postali", "A literatura das ciências sociais aponta para o fato que a participação
+política e as condições de saúde de minorias são variáveis próximas. Seja porque
+empecilhos na saúde pública estimulam maior atividade política das minorias ou
+porque representantes locais podem ajudar em quadros específicos, o relacionamento
+as duas variáveis não é novidade. Este trabalho pretende apresentar essas variáveis e,
+principalmente, explorar sua relação quantitativa para uma minoria um tanto ainda
+inexplorada: os povos indígenas brasileiros. Através de um modelo Probit, foi possível
+constatar que municípios onde indígenas registram maior mortalidade tiveram maior
+probabilidade de ter e de eleger candidatos indígenas nas eleições subsequentes.
+Palavras-Chave: Povos indígenas brasileiros, Saúde Indígena, Participação
+Política, Eleições",
+
+"1", "25/10/2021", "15:55", "G01-024-I0140", "Cenário Energético Na Reserva De Desenvolvimento Sustentável Barra Do Una, Peruíbe/Sp", "Andres Caseiro Guilhem; Tatiana Peixoto Gonçalves", "Em breve",
+
+"1", "25/10/2021", "16:10", "G01-047-I0244", "Documentos Metodológicos Para Elaboração De Planejamento E Gestão De Unidades De Conservação: Uma Análise Climática", "Nathalia Bassoli Minari", "Em breve",
+
+"1", "25/10/2021","16:25", "G01-053-I0253", "Reconstrução Histórica E Ecológica Do Ambiente Pelo Olhar De Comunidades Tradicionais", "Ariadne Dall’acqua Ayres; Fernanda da Rocha Brando; Ricardo Macedo Corrêa e Castro", "Em breve",
+
+
+"1", "25/10/2021", "16:40", "G01-078-I0280", "Planos De Gestão Territorial E Ambiental Em Terras Indígenas No Estado Do Acre", "Málika Simis Pilnik; Tarik Argentim", "Em breve",
+
+
+
+
+"2", "25/10/2021",  "15:40", "G02-036-I0174", "A Importância Do Planejamento Ambiental No Município De Aurelino Leal-Ba", "Ian Felipe Nascimento; Fábio dos Santos Massena",  "Em breve",
+
+"2", "25/10/2021",  "15:55", "G02-055-I0255", "A Produção Mineral Do Estado Do Pará E Sua Relação Com As Questões Sociais E Ambientais Dos Municípios", "João Victor Santana", "Em breve",
+
+"2", "25/10/2021",  "16:10", "G02-066-I0267", "Valoração Econômica Dos Serviços Ecossistêmicos Culturais Providos Pelo Parque Estadual Ilha Anchieta – Sp", "Anelise Gomes da Silva; Lucas Teixeira Leite de Souza; Jeferson Brás Lima", "Em breve",
+
+"2", "25/10/2021",  "16:25", "G02-080-I0282", "Desigualdade E Impacto Do Consumo Sobre A Extração De Recursos Naturais", "Henrique Bottura Paiva; Deise Maria Bourscheidt", "Em breve",
+
+
+"3", "25/10/2021", "15:40", "G03-018-I0132", "Hidrogênio Verde Da Biomassa Para Veículos Leves No Brasil: Uma Análise Por Meio Da Perspectiva Multinível", "Luis Guilherme Larizzatti Zacharias; Drielli Peyerl",  "Em breve",
+
+"3", "25/10/2021", "15:55", "G03-019-I0135", "Tendências E Perspectivas Para O Consumo De Combustíveis No Transporte Rodoviário Brasileiro Entre 2020 E 2030", "Celso Cachola; Ana Clara Costa Andrade; Drielli Peyerl",  "Em breve",
+
+"3", "25/10/2021", "16:10", "G03-079-I0281", "A Vida Social Da Energia No Brasil 1970- 2020", "Andrea Lampis; Silvia Sayuri Mandai", "Em breve",
+
+
+
+"4", "25/10/2021", "15:40", "G04-011-I0109", "O Aiib Na Ordem Financeira Internacional: Análise Comparativa Dos Instrumentos De Avaliação De Impacto Socioambiental Dos Projetos Do Aiib E Do Banco Mundial Na Índia (2017-2020)", "Felipe Jukemura",  "Em breve",
+
+"4", "25/10/2021", "15:55", "G04-034-I0154", "Capital Estrangeiro E Geração De Energia Na Amazônia: Considerações Sobre Pequenas Centrais Hidrelétricas (Pchs)", "Ednilson Gomes de Souza Junior",  "Em breve",
+
+"4", "25/10/2021", "16:10", "G04-049-I0247", "Técnicas De Infraestrutura Na Construção Da Represa Guarapiranga E Seu Impacto No Território", "Carlos César Leonardi", "Em breve",
+
+"4", "25/10/2021", "16:25", "G04-054-I0254", "Panorama De Publicações Cientificas: Os Efeitos Socioeconômicos E Ambientais Causados Pelos Ruídos Provenientes Da Produção Da Energia Eólica", "Matheus Noronha; Gabriele Benfatti; Andre Themoteo; Riomar Jorge; Sandro Yamamotto; Carolina Kimura; Talita Narciso; Rosemeire de Souza; Vivian Blaso",  "Em breve",
+
+"4", "25/10/2021", "16:40", "G04-090-I0292", "Modelo De Análise Para Os Impactos Cumulativos De Pequenas Centrais Hidrelétricas Em Cascata", "Silvia Sayuri Mandai; Evandro Mateus Moretto; Jocilene Barros; Evandro Albiach Branco; Gustavo Arcoverde; Neiva Cristina Araújo; Emílio Moran", "Em breve",
+
+
+
+
+"5", "26/10/2021", "15:10", "G05-015-I0125", "Análise Do Cbio Como Passo Inicial Ao Desenvolvimento De Beccs No Brasil", "Brenda Honório Mazzeu Silveira; Hirdan Katarina de Medeiros Costa; Edmilson Moutinho dos Santos",  "Em breve",
+
+"5", "26/10/2021", "15:25", "G05-030-I0150", "Mapeamento De Coletivos Ambientais Urbanos Da União Das Hortas Comunitárias De São Paulo E Da Sampa + Rural", "Luana Santos de Souza; Renata Ferraz de Toledo",  "Em breve",
+
+"5", "26/10/2021", "15:40", "G05-048-I0246", "Política Nacional De Meio Ambiente: A Subordinação Do Zoneamento Ecológico- Econômico Ao Licenciamento Ambiental No Litoral Do Paraná", "Nathalia Bassoli Minari",  "Em breve",
+
+"5", "26/10/2021", "15:55", "G05-057-I0257", "Mecanismos De Institucionalização De Pautas E A Passagem De Ideias Ao Cenário De Formulação De Políticas Públicas: Aliança Entre Atores E Casos Na Área Ambiental", "Luene Pessoa Vicente; Fernanda da Rocha Brando Fernandez",  "Em breve",
+
+"5", "26/10/2021", "16:10", "G05-068-I0269", "Ciência Pós-Normal E A Governança Dos Comuns De Elinor Ostrom Um Diálogo Possível Na Gestão Sustentável Dos Recursos Hídricos?", "Vanessa Victor da Cruz de Souza",  "Em breve",
+
+
+"5", "26/10/2021", "16:25", "G05-069-I0270", "O Gestor Ambiental E Os Institutos Federais Como Atores Relevantes Na Implementação Dos Ods.", "Josué Duarte; Gabriel Salles; Guilherme Mendonça", "Em breve",
+
+ "5", "26/10/2021", "16:40", "G05-072-I0273", "Cidades E Sustentabilidade: Desafios E Mecanismos Para Implementação De Espaços Urbanos Saudáveis E Sustentáveis Na Agenda 2030", "André Luiz Pereira Spinieli; Letícia de Paula Souza", "Em breve",
+
+"5", "26/10/2021", "16:55", "G05-082-I0284", "Política De Pagamento Por Serviço Ambiental No Brasil: O Caso Da Lei No 14.119, De 13 De Janeiro De 2021 E Seus Interesses Relacionados", "Maycon Yuri Nascimento Costa; Débora Melo Alves", "Em breve",
+
+"5", "26/10/2021", "17:10", "G06-092-I0294", "Governança Colaborativa Para O Monitoramento Do Lixo No Mar: Uma Análise Dos Atores Sociais Do Estado De São Paulo", "Vitória Milanez Scrich", "Em breve",
+
+
+"6", "26/10/2021","15:10", "G06-025-I0142", "20 Anos De Pesquisas Sobre Coleta Seletiva No Brasil: Uma Análise Bibliométrica", "Darlene Gomes Baêta; Anderson Moreira Pinto; Joysinett Moraes da Silva; Ricardo César da Silva Guabiroba; Pedro Roberto Jacobi",  "Em breve",
+
+"6", "26/10/2021", "15:25", "G06-060-I0260", "Soluções No Uso De Químicos Na Agricultura", "Belmiro Saburo Shimada",  "Em breve",
+
+"6", "26/10/2021", "15:40", "G06-084-I0286", "Sustentabilidade E Reaproveitamento De Resíduos De Peixes Para A Obtenção De Farinha", "Josiane Silva; Janaína Lima", "Em breve",
+
+"7", "26/10/2021", "15:55", "G07-026-I0143", "A Construção De Intervenções Educadoras Socioambientais Em Tempos De Pandemia: Experiências E Aprendizados Com As Oficinas De Mobilização Popular Do Raízes De Tupi", "Bruno Fernandes; Nadia Rosário de Oliveira; Nara Perobelli de Moraes", "Em breve",
+
+
+
+
+"8", "26/10/2021", "15:10", "G08-007-I0086", "Risco Climático E Impactos No Ecossistema Cultural Amazônico", "Moara Almeida Canova Teixeira; Jaqueline Nichi; Amasa Ferreira Carvalho; Marcelo Rezende Calça Soeira",  "Em breve",
+
+"8", "26/10/2021", "15:25", "G08-008-I0096", "Desastre Em São Francisco Xavier: O Que Levou À Interrupção Do Abastecimento De Água Em 2008.", "Camila Miranda Michelin",  "Em breve",
+
+"8", "26/10/2021", "15:40", "G08-038-I0180", "Avaliação Da Disponibilidade Hídrica No Solo Para A Região Da Baixada Maranhense, Frente Aos Cenários De Mudanças Climáticas.", "Fernando Ferreira; Ronaldo Menezes", "Em breve",
+
+"8", "26/10/2021", "15:55", "G08-044-I0230", "Variabilidade E Intensidade Da Chuva Em Uma Área De Floresta Na Amazônia Nos Anos De 1999 A 2020", "Sara Line Silveira Araujo; Renata Gonçalves Aguiar",  "Em breve",
+
+"8", "26/10/2021", "16:10", "G08-061-I0262", "A Perspectiva Dos Municípios Brasileiros Sobre A Proteção Ambiental Na Campanha Da Onu \"Construindo Cidades Resilientes – Minha Cidade Está Se Preparando”", "Betina Ortiz Bruel; Adriana da Silva Santos; Juliana Mara Nespolo",  "Em breve",
+
+"8", "26/10/2021", "16:25", "G08-073-I0274", "Políticas Ambientais E Governança Climática: Perspectivas Dos Sistemas De Transição Sustentável Para O Combate Às Mudanças Climáticas", "Luis Henrique da Rocha Paim Garcia; Maria Eliane Blaskesi Silveira",  "Em breve",
+
+"8", "26/10/2021", "16:40", "G08-075-I0277", "Vulnerabilidades Socioambientais E As Secas Na Amazônia: O Caso Do Estado Do Amazonas", "Lyvia Amado de Oliveira", "Em breve",
+
+
+
+
+"9", "27/10/2021", "15:10", "G11-014-I0123", "Análise Das Variações Hidrodinâmicas Sazonais Associadas Às Mudanças Climáticas Globais Na Baixada Santista (SP, Brasil)", "Samuel Hora Yang; Joseph Harari; Tiago Cortez; Celia Regina de Gouveia Souza", "Em breve",
+
+"9", "27/10/2021", "15:25", "G11-029-I0149", "Desenvolvimento E Validação Do Stfm: Um Novo Modelo De Derramamento De Óleo Para A Costa Brasileira", "Daniel Zacharias; Carine Gama; Adalgiza Fornaro", "Em breve",
+
+"9", "27/10/2021", "15:40", "G11-059-I0259", "Avaliação Da Qualidade Da Água Na Desembocadura Do Rio Acaraú, Na Baía De Itaguá, Ubatuba-SP – Outubro/2021", "Igor Ruiz Atake; Joseph Harari; Paulo Antonio de Almeida Sinisgalli", "Em breve",
+
+"9", "27/10/2021", "15:55", "G11-062-I0263", "Estimativa Do Tempo De Residência No Canal Principal Do Estuário De Cananéia-Iguape Através Da Modelagem Numérica", "Paula Birocchi; Marcelo Dottori","Em breve", 
+
+"9", "27/10/2021", "16:10", "G09-056-I0256", "Emprego De Interpolação Para Espacialização De Dados Pluviométricos No Estado Do Maranhão", "Admo Ramos Silva Júnior; Taíssa Caroline Silva Rodrigues; Juliane Borralho de Andrade; Ronaldo Haroldo Nascimento de Menezes", "Em breve",
+
+
+"10", "27/10/2021", "15:10", "G10-013-I0122", "Uso De Deep Learning Para Detecção De Cecropia sp. Em Área De Restauração Florestal Da Amazônia Imageada Por Drone", "Rafael Walter Albuquerque; Daniel Luís Mascia Vieira; Manuel Eduardo Ferreira; Lucas Pedrosa Soares; Julio Ricardo Caetano Tymus; Cintia Palheta Balieiro; Marcelo Hiromiti Matsumoto; Luciana Spinelli Araujo; Luiz Eduardo Vicente; Carlos Henrique Grohmann;", "Em breve",
+
+"10", "27/10/2021", "15:25", "G10-022-I0138", "Aplicação De Anaglifos No Levantamento De Voçorocas Na Bacia Hidrográfica Do Córrego Do Palmital - Minas Gerais, Brasil", "Ádria Kanome Mori Soares; Valéria Guimarães Silvestre Rodrigues; Silvio Crestana; Joel Barbujiani Sígolo", "Em breve",
+
+"10", "27/10/2021", "15:40", "G10-027-I0145", "Ensaios De Germinação Para Avaliação Da Sensibilidade De Diferentes Espécies De Plantas Expostas Ao Cádmio", "Jacqueline Zanin Lima; Allan Pretti Ogura; Joel Barbujiani Sígolo; Valéria Guimarães Silvestre Rodrigues", "Em breve",
+
+"10", "27/10/2021", "15:55", "G10-081-I0283", "Conversão Urbana: Análise Temporal Do Uso E Cobertura Da Terra No Crescimento Urbano Do Município De Rio Verde (GO)", "Marcos Vinícius Santos de Freitas; Amiel Araujo Soares Santos; Lorena Souza Miranda; Guilherme Antonio da Silva", "Em breve",
+
+"10", "27/10/2021", "16:10", "G10-088-I0290", "Desenvolvendo Um Método De Detecção De Florestas De Igapó Da Volta Grande Do Xingu Nas Décadas De 1990 E 2000 A Partir De Radares De Abertura Sintética", "Alynne Almeida Affonso; Carlos Henrique Grohmann", "Em breve",
+
+"10", "27/10/2021", "16:25", "G10-089-I0291", "Investigação Preliminar Das Transformações Da Zona Costeira Santista A Partir Do Século Xvi: Utilizando Sistemas De Informações Geográficas Como Ferramenta Para Uma Análise Histórica Ambiental", "Alynne Almeida Affonso; Michel Michaelovitch de Mahiques; Helen Bradley; Fiona Cawkwell","Em breve",
+
+"10", "27/10/2021", "16:40", "G10-091-I0293", "Análise Da Transformação Do Uso E Cobertura Do Solo Entre Os Anos 2000 E 2017 Na Volta Grande Do Xingu, Pará", "Alynne Almeida Affonso; Silvia Sayuri Mandai; Tatiana Pineda Portella; Carlos Henrique Grohmann; José Alberto Quintanilha","Em breve",
+
+
+) 
+
+
+
+
+programacao_dia_1 <- tabela_programacao %>% 
+  dplyr::filter(Dia == "25/10/2021") %>% 
+  dplyr::select(-Dia, -codigo, -Resumo) 
+
+programacao_dia_2 <- tabela_programacao %>% 
+  dplyr::filter(Dia == "26/10/2021") %>% 
+  dplyr::select(-Dia, -codigo, -Resumo)
+
+
+programacao_dia_3 <- tabela_programacao %>% 
+  dplyr::filter(Dia == "27/10/2021") %>% 
+  dplyr::select(-Dia, -codigo, -Resumo)
+
+```
+
+
+## 25/10/2021 - Conservação, Impactos e Planejamento Ambiental
+
+```{r}
+  reactable::reactable(programacao_dia_1, pagination = FALSE,  columns = list(
+    `Título` = colDef(minWidth = 100, html = TRUE) ,
+   # `Resumo` = colDef(minWidth = 200, html = TRUE) ,
+    `GT` = colDef(html = TRUE, maxWidth = 40),
+    `Horário de Início` = colDef(html = TRUE, maxWidth = 80)# overrides the default)
+    ), searchable = TRUE)
+```
+
+
+## 26/10/2021 - Governança, Políticas Ambientais e Sustentabilidade
+
+```{r}
+  reactable::reactable(programacao_dia_2,  columns = list(
+    `Título` = colDef(minWidth = 100, html = TRUE) ,
+    `GT` = colDef(html = TRUE, maxWidth = 40),
+    `Horário de Início` = colDef(html = TRUE, maxWidth = 80)# overrides the default)
+    ), searchable = TRUE, pagination = FALSE)
+```
+
+
+
+
+## 27/10/2021 - Mudanças Climáticas, Geotecnologias e Modelagem
+
+```{r}
+  reactable::reactable(programacao_dia_3,  columns = list(
+    `Título` = colDef(minWidth = 100, html = TRUE) ,
+    `GT` = colDef(html = TRUE, maxWidth = 40),
+    `Horário de Início` = colDef(html = TRUE, maxWidth = 80)# overrides the default)
+    ), searchable = TRUE, pagination = FALSE)
+```
+
