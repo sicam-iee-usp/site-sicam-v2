@@ -1,26 +1,26 @@
 ---
 title: "Edições anteriores"
+title-block-banner: true
 ---
 
-- **IV SICAM - IV Simpósio Interdisciplinar de Ciência Ambiental**
-  - Data: 24 à 26 de outubro de 2022
-  - Confira os <a href="/anais-iv-sicam.pdf" target="_blank">Anais do IV SICAM</a>
+-   **IV SICAM - IV Simpósio Interdisciplinar de Ciência Ambiental**
+    -   Data: 24 à 26 de outubro de 2022
+    -   Confira os <a href="/anais-iv-sicam.pdf" target="_blank">Anais do IV SICAM</a>
 
----
+------------------------------------------------------------------------
 
-- **III SICAM - III Simpósio Interdisciplinar de Ciência Ambiental** 
-  - Data: 25 à 27 de outubro de 2021
-  - Confira os <a href="/anais-iii-sicam.pdf" target="_blank">Anais do III SICAM</a>
-  
----
+-   **III SICAM - III Simpósio Interdisciplinar de Ciência Ambiental**
+    -   Data: 25 à 27 de outubro de 2021
+    -   Confira os <a href="/anais-iii-sicam.pdf" target="_blank">Anais do III SICAM</a>
 
-- **II SICAM - II Simpósio Interdisciplinar de Ciência Ambiental**
-  - Data: 14 à 16 de setembro de 2016
-  - Confira os <a href="/anais-ii-sicam.pdf" target="_blank">Anais do II SICAM</a>
+------------------------------------------------------------------------
 
----
+-   **II SICAM - II Simpósio Interdisciplinar de Ciência Ambiental**
+    -   Data: 14 à 16 de setembro de 2016
+    -   Confira os <a href="/anais-ii-sicam.pdf" target="_blank">Anais do II SICAM</a>
 
-- **I SICAM - I Simpósio Interdisciplinar de Ciência Ambiental**
-  - Data: 03 à 06 de dezembro de 2013
-  - Confira os <a href="/anais-i-sicam.pdf" target="_blank">Anais do I SICAM</a>
+------------------------------------------------------------------------
 
+-   **I SICAM - I Simpósio Interdisciplinar de Ciência Ambiental**
+    -   Data: 03 à 06 de dezembro de 2013
+    -   Confira os <a href="/anais-i-sicam.pdf" target="_blank">Anais do I SICAM</a>

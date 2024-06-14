@@ -19,17 +19,16 @@ title-block-banner: true
 
 ## Realização
 
-::: {.grid}
-::: {.g-col-4}
+::: grid
+::: g-col-4
 ![](img/apoio/usp.png){fig-align="center"}
 :::
 
-::: {.g-col-4}
+::: g-col-4
 ![](img/apoio/iee.jpeg){fig-align="center"}
 :::
 
-::: {.g-col-4}
+::: g-col-4
 ![](img/apoio/procam.jpeg){fig-align="center"}
 :::
-
 :::

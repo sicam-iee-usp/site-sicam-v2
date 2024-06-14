@@ -4,11 +4,25 @@
   margin-bottom: 1em;
   color: #ffffff;
   background: #304387;
+  background-image: url('img/logo.jpeg'); /* Caminho para a imagem */
+  background-size: contain; /* Ajusta a imagem para cobrir todo o banner */
+  background-position: right 100px center; /* Centraliza a imagem no banner */
+  background-repeat: no-repeat; /* Evita que a imagem se repita */
+  height: 300px;
+   display: flex; /* Ativa o flexbox */
+  align-items: center; /* Centraliza verticalmente */
+  justify-content: center; /* Centraliza horizontalmente (opcional) */
+}
+
+
+.quarto-title-banner h1, .quarto-title-banner .h1, .quarto-title-banner h2, .quarto-title-banner .h2 {
+  color: #ffffff !important;
 }
 
 .quarto-title-banner h1, .quarto-title-banner .h1, .quarto-title-banner h2, .quarto-title-banner .h2 {
-  color: #ffffff;
+  color: #fff;
 }
+
 
 .navbar {
   background-color: #304387;

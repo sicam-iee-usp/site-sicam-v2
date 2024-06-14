@@ -6,12 +6,15 @@ project:
     - "img/*"
 
 website:
+  # body-header: |
+  #   ![Logo image](/img/logo.jpeg)
   title: "V SICAM"
   page-footer:
     center: "V Simpósio Interdisciplinar de Ciência Ambiental - 2024" 
     border: true
     background: dark
   navbar:
+    logo: "img/logo.jpeg" 
     right:
       - text: "Página inicial"
         href: /index.qmd
