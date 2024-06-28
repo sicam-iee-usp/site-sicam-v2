@@ -17,7 +17,7 @@ website:
     logo: "img/logo.jpeg" 
     right:
       - text: "Página inicial"
-        href: /index.qmd
+        href: "https://sicam.com.br"
       - text: "Sobre o SICAM"
         menu:
           - sobre-o-evento.qmd
