@@ -13,8 +13,17 @@ website:
     center: "V Simpósio Interdisciplinar de Ciência Ambiental - 2024" 
     border: true
     background: dark
+    right: 
+      - icon: house
+        href: "https://sicam.com.br"
+      - icon: instagram
+        href: https://www.instagram.com/sicam_procam_usp/
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/v-sicam-simp%C3%B3sio-interdisciplinar-de-ci%C3%AAncia-ambiental-a84079319/"
+      - icon: envelope
+        href: mailto:sicam.iee.usp@gmail.com
   navbar:
-    logo: "img/logo.jpeg" 
+    logo: "img/logo_sem_texto.jpg" 
     right:
       - text: "Página inicial"
         href: "https://sicam.com.br"
@@ -26,10 +35,21 @@ website:
         menu: 
         - submissao.qmd    
       - edicoes-anteriores.qmd
+    left:
+      - icon: house
+        href: "https://sicam.com.br"
+      - icon: instagram
+        href: https://www.instagram.com/sicam_procam_usp/
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/v-sicam-simp%C3%B3sio-interdisciplinar-de-ci%C3%AAncia-ambiental-a84079319/"
+      - icon: envelope
+        href: mailto:sicam.iee.usp@gmail.com
 format:
   html:
     theme: cosmo
     css: styles.css
+    template-partials:
+      - partials/title-block.html
 
 editor: visual
 

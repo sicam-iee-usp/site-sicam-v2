@@ -1,32 +1,49 @@
 /* css styles */
 
-.quarto-title-banner {
-  margin-bottom: 1em;
+.quarto-title-banner-image {
+  margin-bottom: 0em;
   color: #ffffff;
-  background: #304387;
-  background-image: url('img/logo.jpeg'); /* Caminho para a imagem */
-  background-size: contain; /* Ajusta a imagem para cobrir todo o banner */
-  background-position: right 100px center; /* Centraliza a imagem no banner */
+  /*background: #304387;*/
+  background-image: url('img/sicam-2.jpg'); /* Caminho para a imagem */
+  background-size: cover; /* Ajusta a imagem para cobrir todo o banner */
   background-repeat: no-repeat; /* Evita que a imagem se repita */
-  height: 300px;
-   display: flex; /* Ativa o flexbox */
-  align-items: center; /* Centraliza verticalmente */
-  justify-content: center; /* Centraliza horizontalmente (opcional) */
+  display: flex; /* Ativa o flexbox */
+  align-items: right; 
+  height: 20em;
+  justify-content: flex-end; /* Centraliza horizontalmente (opcional) */
 }
 
+#title-block-header{
+  background-color: #304387;
+}
 
-.quarto-title-banner h1, .quarto-title-banner .h1, .quarto-title-banner h2, .quarto-title-banner .h2 {
-  color: #ffffff !important;
+.quarto-title-banner {
+  margin-bottom: 0em;
+  color: #FFFFFF;
+  background: #304387;
+  text-align: center;
 }
 
 .quarto-title-banner h1, .quarto-title-banner .h1, .quarto-title-banner h2, .quarto-title-banner .h2 {
-  color: #fff;
+  color: #FFFFFF !important;
+}
+
+.quarto-title-banner h1, .quarto-title-banner .h1, .quarto-title-banner h2, .quarto-title-banner .h2 {
+  color: #FFFFFF;
 }
 
 
 .navbar {
   background-color: #304387;
   color: #ffffff;
+}
+
+.nav-footer a {
+  color: #fff;
+}
+
+.navbar #quarto-search.type-overlay .aa-Autocomplete svg.aa-SubmitIcon {
+  color: #fff;
 }
 
 .navbar, .navbar[data-bs-theme="dark"] {
