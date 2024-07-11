@@ -46,6 +46,10 @@
   color: #fff;
 }
 
+.quarto-grid-item p.card-img-top > img {
+  object-fit: cover;
+}
+
 .navbar, .navbar[data-bs-theme="dark"] {
   --bs-navbar-color: #ffffff;
   --bs-navbar-hover-color: #d88a3f;
@@ -67,8 +71,4 @@
   padding-bottom: .5rem;
   background-color: #304387;
   color: #ffffff;
-}
-
-.quarto-grid-item p.card-img-top > img {
-  object-fit: contain;
 }
