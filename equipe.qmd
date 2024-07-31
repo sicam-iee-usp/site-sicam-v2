@@ -46,6 +46,7 @@ title-block-banner: true
 - Discente de mestrado no PROCAM
 - Orientado por: Prof. Dr. Wagner Costa Ribeiro
 - Email: [henrique.castro.barbosa@usp.br](mailto:henrique.castro.barbosa@usp.br)
+-   Currículo Lattes: <http://lattes.cnpq.br/6020026257271594>
 
 > Geógrafo formado pela FFLCH/USP em 2021. Atualmente mestrando no Programa de Pós-Graduação em Ciência Ambiental, PROCAM-SP. Pesquisa governança em cenários de conflito hídrico trasnfronteiriço entre Brasil e Uruguai, tema o qual se debruça desde a Iniciação Científica na graduação. Também tem formação de jornalista pela Faculdade Cásper Líbero, com experiência em redação.
  
