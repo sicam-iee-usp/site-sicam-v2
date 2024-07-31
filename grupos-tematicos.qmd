@@ -1,0 +1,45 @@
+---
+title: "Grupos temáticos"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+
+Nesta quinta edição, o SICAM conta com 11 grupos temáticos. 
+
+## Eixo 1 - Conservação e Desenvolvimento Socioambiental
+
+- GT 1: Ecologia Política, Decolonialidade e Justiça Climática
+
+- GT 2: Povos e Comunidades Tradicionais e Originárias: a integração do saber local e da ciência
+
+- GT 3: Cidades Resilientes e Planejamento Urbano
+
+- GT 4: Produção, Consumo e Resíduos Sólidos
+
+- GT 5: Transição Agroecológica, Reforma Agrária e Segurança Alimentar
+
+- GT 6: Economia Ecológica e Impactos Socioecológicos
+
+## Eixo 2 - Governança, Políticas e Impactos Socioambiental
+
+- GT 7: Governança, Políticas Públicas, Direito Socioambiental
+
+- GT 8: Comunicação, Educação Climática e Enfrentamento à desinformação
+
+- GT 9: Transformações Tecnológicas para a Ciência Ambiental
+
+## Eixo 3 - Análise Sociotécnica e Modelagem Socioambiental
+
+- GT 10: Geotecnologias e Modelagem em Ciência Ambiental
+
+- GT 11: Inovação, Transformações e Transições para a Sustentabilidade
+
+
+
+
+

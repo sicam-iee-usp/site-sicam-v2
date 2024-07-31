@@ -4,3 +4,5 @@ title-block-banner: true
 ---
 
 Informações em breve!
+
+Confira os [Grupos temáticos](grupos-tematicos.qmd).

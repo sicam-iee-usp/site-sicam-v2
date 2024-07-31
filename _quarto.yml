@@ -31,9 +31,10 @@ website:
         menu:
           - sobre-o-evento.qmd
           - equipe.qmd
+          - grupos-tematicos.qmd
       - text: "Participe"
         menu: 
-        - submissao.qmd    
+        - submissao.qmd   
       - edicoes-anteriores.qmd
     left:
       - icon: house
