@@ -5,3 +5,5 @@
 /.quarto/
 .DS_Store
 docs/CNAME
+docs/.gitignore
+.DS_Store

@@ -5,4 +5,6 @@ title-block-banner: true
 
 Informações em breve!
 
-Confira os [Grupos temáticos](grupos-tematicos.qmd).
+-   Confira os [Grupos temáticos](grupos-tematicos.qmd).
+
+-   Confira o [Template de envio](https://github.com/sicam-iee-usp/site-sicam-v2/raw/main/template_submissao.docx).
