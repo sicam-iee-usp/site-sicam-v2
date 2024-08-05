@@ -72,3 +72,8 @@
   background-color: #304387;
   color: #ffffff;
 }
+
+
+button{
+  border-radius: 8px;
+}
