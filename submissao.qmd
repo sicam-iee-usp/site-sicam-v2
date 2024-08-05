@@ -79,9 +79,9 @@ No ato da submissão do resumo expandido, deverão ser enviados dois arquivos: u
 
 Cada um destes dois arquivos devem possuir o mesmo nome e com palavras separadas por underscore ("\_"), por exemplo, "Ciencia_Ambiental_SICAM.docx" (para o arquivo com nomes e afiliações dos autores) e "Ciencia_Ambiental_SICAM.pdf" (para o arquivo sem nomes e afiliações dos autores).
 
-Ambos os arquivos devem ser anexados ao **Formulário de submissão** (Link: **em breve!** ) até às 23h59min do dia 26 de agosto de 2024. 
+Ambos os arquivos devem ser anexados ao **Formulário de submissão** (Link: <https://forms.gle/zaMigRcPrdnrvyNC7> ) até às 23h59min do dia 26 de agosto de 2024. 
 
-<!-- <center><a href="https://docs.google.com/forms/d/e/1FAIpQLSf3YTizMCqrKLIf9kHC7kUxH1_OX6kPDQ2lKkKN4CJGatIHSQ/viewform" target="_blank"><button type="button" class="btn btn-success">Acesse o formulário de <br> submissão! </button></center></a> -->
+<center><a href="https://forms.gle/zaMigRcPrdnrvyNC7" target="_blank"><button type="button" class="btn btn-info">Acesse o formulário de <br> submissão! </button></center></a>
 
 
 O **limite** máximo de trabalhos submetidos é de **3 (três) resumos expandidos por primeiro autor**, não sendo cobrada qualquer taxa para submissão de trabalhos nem para a participação do evento. O número máximo de autores é de quatro autores por resumo expandido. Em caso de optar por apresentação oral ao vivo para mais de um trabalho, GTs diferentes podem ser considerados desde que ocorram em dias diferentes do evento.
@@ -101,7 +101,10 @@ Uma vez submetido o resumo, não haverá mais oportunidades para qualquer tipo d
 
 A pessoa que submeteu o resumo já estará inscrita no evento. Contudo, caso esta não seja a pessoa que irá apresentar, a inscrição no evento (para autores que apresentarão trabalhos) poderá ser feita após o resultado do parecer do trabalho submetido, que ocorrerá até o dia 20/09/2024. **O autor responsável pela apresentação deverá se inscrever no evento**. Caso o autor responsável pela apresentação tenha algum imprevisto e não possa participar do evento, o mesmo deverá solicitar que outro autor faça a inscrição para a apresentação ou deverá informar à Comissão Organizadora que o trabalho não será apresentado.
 
+## Templates para apresentação oral e pôster
 
-Em relação aos slides para as apresentações orais, os autores podem utilizar a formatação de sua preferência, podendo incluir os logotipos do evento disponíveis para download no site. 
+Em relação aos slides para as apresentações orais, os autores podem utilizar a formatação de sua preferência, podendo incluir os logotipos do evento. 
+
+Acesse o [template para o pôster](https://github.com/sicam-iee-usp/site-sicam-v2/raw/main/template_poster.pdf).
 
 
