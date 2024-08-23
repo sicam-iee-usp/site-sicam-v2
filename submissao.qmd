@@ -6,18 +6,16 @@ toc: true
 
 ## Calendário de submissão
 
-| Data | Descrição|
-|------------|----------------------------------|
-| 05/08/2024 | Abertura das submissões de trabalhos |
-| 26/08/2024 | Prazo final para submissão de trabalhos |
-| 20/09/2024 | Divulgação dos resultados dos trabalhos submetidos |
+| Data       | Descrição                                                                     |
+|-------------------|----------------------------------------------------|
+| 05/08/2024 | Abertura das submissões de trabalhos                                          |
+| 15/09/2024 | Prazo final para submissão de trabalhos                                       |
+| 22/09/2024 | Divulgação dos resultados dos trabalhos submetidos                            |
 | 11/10/2024 | Data limite para inscrição de autores que apresentarão os trabalhos aprovados |
-
 
 ## Sobre a submissão
 
-
-As pessoas interessadas em participar do evento terão a opção de submeter seus trabalhos em forma de **apresentação oral** ou **apresentação de pôster**, distribuídos em **[Grupos Temáticos (GTs)](grupos-tematicos.qmd)**.
+As pessoas interessadas em participar do evento terão a opção de submeter seus trabalhos em forma de **apresentação oral** ou **apresentação de pôster**, distribuídos em [**Grupos Temáticos (GTs)**](grupos-tematicos.qmd).
 
 <center><a href="/grupos-tematicos.qmd" ><button type="button" class="btn btn-info">Confira os Grupos Temáticos </button></center>
 
@@ -39,14 +37,11 @@ As apresentações em pôster acontecerão no Centro de Convivência do IEE, dur
 
 Acesse o [template para o pôster](https://github.com/sicam-iee-usp/site-sicam-v2/raw/main/template_poster.pptx).
 
-
-
 ## Normas de elaboração de resumo expandido
 
 O resumo expandido deverá conter no mínimo **1.000 palavras** e no máximo **1.500** palavras (excluindo as referências, figuras e tabelas), ressaltando a importância e justificativa do trabalho, o objetivo, o local de realização, a metodologia utilizada, os principais resultados e, ao final, a principal conclusão, escritos de maneira clara, coerente e concisa. O conteúdo deve apresentar coerência metodológica.
 
-O **Texto principal** (Desenvolvimento do trabalho, por exemplo, as seções Introdução, Material e Métodos, Resultados, Discussão e Conclusão, podendo-se utilizar outra estrutura caso o autor prefira) deve ser redigido em português, fonte Times New Roman, tamanho 12, formato do papel A4, com espaçamento simples,  margens superior e esquerda de 2,5 cm e inferior e direita de 2,5 cm. O texto deverá ser digitado em modo "justificado". Solicitamos que utilizem o [template de envio](https://github.com/sicam-iee-usp/site-sicam-v2/raw/main/template_submissao.docx) preparado.
-
+O **Texto principal** (Desenvolvimento do trabalho, por exemplo, as seções Introdução, Material e Métodos, Resultados, Discussão e Conclusão, podendo-se utilizar outra estrutura caso o autor prefira) deve ser redigido em português, fonte Times New Roman, tamanho 12, formato do papel A4, com espaçamento simples, margens superior e esquerda de 2,5 cm e inferior e direita de 2,5 cm. O texto deverá ser digitado em modo "justificado". Solicitamos que utilizem o [template de envio](https://github.com/sicam-iee-usp/site-sicam-v2/raw/main/template_submissao.docx) preparado.
 
 Todos os tópicos (Resumo, Introdução, etc) deverão ser escritos em letras maiúsculas e em negrito, seguidos por dois pontos (:) e pelo texto, com início na mesma linha. O recuo do parágrafo deve ser de 1,25 cm. Os tópicos devem ser separados do final do texto anterior por por um ENTER, com espaçamento de 1,5 cm entre as linhas. **Não colocar o número das páginas** no arquivo.
 
@@ -84,10 +79,11 @@ No ato da submissão do resumo expandido, deverão ser enviados dois arquivos: u
 
 Cada um destes dois arquivos devem possuir o mesmo nome e com palavras separadas por underscore ("\_"), por exemplo, "Ciencia_Ambiental_SICAM.docx" (para o arquivo com nomes e afiliações dos autores) e "Ciencia_Ambiental_SICAM.pdf" (para o arquivo sem nomes e afiliações dos autores).
 
-Ambos os arquivos devem ser anexados ao **Formulário de submissão** (Link: <https://forms.gle/zaMigRcPrdnrvyNC7> ) até às 23h59min do dia 26 de agosto de 2024. 
+Ambos os arquivos devem ser anexados ao **Formulário de submissão** (Link: <https://forms.gle/zaMigRcPrdnrvyNC7> ) até às 23h59min do dia 26 de agosto de 2024.
 
-<center><a href="https://forms.gle/zaMigRcPrdnrvyNC7" target="_blank"><button type="button" class="btn btn-info">Acesse o formulário de <br> submissão! </button></center></a>
+<center><a href="https://forms.gle/zaMigRcPrdnrvyNC7" target="_blank"><button type="button" class="btn btn-info">Acesse o formulário de <br> submissão! </button></center>
 
+</a>
 
 O **limite** máximo de trabalhos submetidos é de **3 (três) resumos expandidos por primeiro autor**, não sendo cobrada qualquer taxa para submissão de trabalhos nem para a participação do evento. O número máximo de autores é de quatro autores por resumo expandido. Em caso de optar por apresentação oral ao vivo para mais de um trabalho, GTs diferentes podem ser considerados desde que ocorram em dias diferentes do evento.
 
@@ -96,7 +92,6 @@ Recomenda-se aos autores que **evitem submissões em última hora** para evitar 
 Em caso de dúvidas, escrever para a Comissão Organizadora do V SICAM, por meio do e-mail [**sicam.iee.usp\@gmail.com**](mailto:sicam.iee.usp@gmail.com).
 
 No ato da submissão, o autor deverá escolher a forma de apresentação oral do seu trabalho: com 10 minutos para exibição e 5 minutos para resposta às perguntas dos participantes; ou na forma de pôster.
-
 
 Caso a quantidade de apresentações orais exceda a quantidade de tempo disponível para o evento, a Comissão Científica selecionará alguns trabalhos para serem apresentados em formato de pôster.
 
