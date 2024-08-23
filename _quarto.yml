@@ -4,6 +4,7 @@ project:
   resources: 
     - "*.pdf"
     - "img/*"
+    - "*.pptx"
 
 website:
   # body-header: |
@@ -31,13 +32,14 @@ website:
         menu:
           - sobre-o-evento.qmd
           - equipe.qmd
+      - text: "Submissão"
+        menu:
+          - submissao.qmd   
+          - grupos-tematicos.qmd 
+      - text: "Inscreva-se"
+        href: "https://forms.gle/gpKEwHUSp4buPav17"
 
-      - text: "Participe"
-        menu: 
-        - text: "Inscreva-se"
-          href: "https://forms.gle/gpKEwHUSp4buPav17"
-        - submissao.qmd   
-        - grupos-tematicos.qmd        
+                
       - edicoes-anteriores.qmd
     left:
       - icon: house
