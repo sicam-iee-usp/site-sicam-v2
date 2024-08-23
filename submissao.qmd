@@ -10,7 +10,7 @@ toc: true
 |-------------------|----------------------------------------------------|
 | 05/08/2024 | Abertura das submissões de trabalhos                                          |
 | 15/09/2024 | Prazo final para submissão de trabalhos                                       |
-| 22/09/2024 | Divulgação dos resultados dos trabalhos submetidos                            |
+| 02/10/2024 | Data máxima para divulgação dos resultados dos trabalhos submetidos           |
 | 11/10/2024 | Data limite para inscrição de autores que apresentarão os trabalhos aprovados |
 
 ## Sobre a submissão
