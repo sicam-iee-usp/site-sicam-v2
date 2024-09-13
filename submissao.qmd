@@ -7,9 +7,9 @@ toc: true
 ## Calendário de submissão
 
 | Data       | Descrição                                                                     |
-|---------------------|---------------------------------------------------|
+|----------------------|--------------------------------------------------|
 | 05/08/2024 | Abertura das submissões de trabalhos                                          |
-| 15/09/2024 | Prazo final para submissão de trabalhos                                       |
+| **22/09/2024** | Prazo final para submissão de trabalhos (**PRORROGADO**)                                   |
 | 02/10/2024 | Data máxima para divulgação dos resultados dos trabalhos submetidos           |
 | 11/10/2024 | Data limite para inscrição de autores que apresentarão os trabalhos aprovados |
 | 21/10/2024 | Data limite para inscrição de participantes ouvintes                          |
@@ -101,5 +101,3 @@ Uma vez submetido o resumo, não haverá mais oportunidades para qualquer tipo d
 **Os certificados de apresentação serão enviados somente aos que apresentaram o trabalho.**
 
 A pessoa que submeteu o resumo já estará inscrita no evento. Contudo, caso esta não seja a pessoa que irá apresentar, a inscrição no evento (para autores que apresentarão trabalhos) poderá ser feita após o resultado do parecer do trabalho submetido. **O autor responsável pela apresentação deverá se inscrever no evento até 11/10/2024**. Caso o autor responsável pela apresentação tenha algum imprevisto e não possa participar do evento, o mesmo deverá solicitar que outro autor faça a inscrição para a apresentação ou deverá informar à Comissão Organizadora que o trabalho não será apresentado.
-
-
