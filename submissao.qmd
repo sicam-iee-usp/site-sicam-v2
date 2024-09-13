@@ -80,7 +80,7 @@ Em seguida, apresentar as **Referências**, as quais devem seguir a norma da ABN
 
 No ato da submissão do resumo expandido, deverão ser enviados dois arquivos: um em **formato \*.pdf sem os nomes dos autores** (para permitir a avaliação cega por parte dos avaliadores) e outro em **formato word** (\*.doc ou \*.docx) **com os nomes e filiações** dos autores (este será publicado nos anais no caso de aceite).
 
-Cada um destes dois arquivos devem possuir o mesmo nome e com palavras separadas por underscore ("\_"), por exemplo, "Ciencia_Ambiental_SICAM.docx" (para o arquivo com nomes e afiliações dos autores) e "Ciencia_Ambiental_SICAM.pdf" (para o arquivo sem nomes e afiliações dos autores).
+Os arquivos devem estar nomeados com o número do GT específico e o título do trabalho. Cada um destes dois arquivos devem possuir o mesmo nome, por exemplo, "GT0-TituloDoTrabalho.docx" (para o arquivo com nomes e afiliações dos autores) e "GT0-TituloDoTrabalho.pdf" (para o arquivo sem nomes e afiliações dos autores). Exemplo: `GT1-UmEstudodeCasodeEmergênciaClimatica.docx`. 
 
 Ambos os arquivos devem ser anexados ao **Formulário de submissão** (Link: <https://forms.gle/zaMigRcPrdnrvyNC7> ) até às 23h59min do dia 26 de agosto de 2024.
 
