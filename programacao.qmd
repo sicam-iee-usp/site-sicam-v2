@@ -1,0 +1,58 @@
+---
+title: "Programação preliminar"
+title-block-banner: true
+toc: true
+---
+
+## Segunda-feira, 21 de outubro de 2024
+
+09:00-10:00 - Recepção, Credenciamento e Café
+
+10:00-12:00 - Mesa Redonda: Abertura das discussões do dia
+
+12:00-14:00 - Intervalo para o almoço
+
+14:00-17:00 - Sessões orais - Grupos de trabalho
+
+   - GT 1: Ecologia Política, Decolonialidade e Justiça Climática
+
+  - GT 2: Povos e Comunidades Tradicionais e Originárias: a integração do saber local e da ciência
+
+  - GT 3: Cidades Resilientes e Planejamento Urbano
+
+## Terça-feira, 22 de outubro de 2024
+
+09:00-11:00 - Workshop 1 - Introdução à análise de dados com R (Beatriz Milz) (Inscrições em breve!)
+
+11:00-12:00 - Roda de Conversa 1 - Comitês de ética e submissão na Plataforma Brasil
+
+12:00-14:00 - Intervalo para o almoço
+
+14:00-17:00 - Sessões orais - Grupos de trabalho
+
+  - GT 4: Produção, Consumo e Resíduos Sólidos
+
+  - GT 5: Transição Agroecológica, Reforma Agrária e Segurança Alimentar
+
+  - GT 6: Economia Ecológica e Impactos Socioecológicos
+
+  - GT 7: Governança, Políticas Públicas, Direito Socioambiental
+
+
+## Quarta-feira, 23 de outubro de 2024
+
+09:00-11:00 - Workshop 2 - A confirmar
+
+11:00-12:00 - Roda de Conversa 2 - Troca de experiências do uso de IA na pesquisa
+
+12:00-14:00 - Intervalo para o almoço
+
+14:00-17:00 - Sessões orais - Grupos de trabalho
+
+  - GT 8: Comunicação, Educação Climática e Enfrentamento à desinformação
+
+  - GT 9: Transformações Tecnológicas para a Ciência Ambiental
+
+  - GT 10: Geotecnologias e Modelagem em Ciência Ambiental
+
+  - GT 11: Inovação, Transformações e Transições para a Sustentabilidade

@@ -33,15 +33,18 @@ website:
         menu:
           - sobre-o-evento.qmd
           - equipe.qmd
+          - edicoes-anteriores.qmd
       - text: "Submissão"
         menu:
           - submissao.qmd   
           - grupos-tematicos.qmd 
+      - text: "Programação"
+        href: programacao.qmd
       - text: "Inscreva-se"
         href: "https://forms.gle/gpKEwHUSp4buPav17"
 
                 
-      - edicoes-anteriores.qmd
+      
     left:
       - icon: house
         href: "https://sicam.com.br"

@@ -26,12 +26,12 @@ Acesse a página sobre [submissão de trabalhos](submissao.qmd) para saber mais 
 
 #### GT 3: Cidades Resilientes e Planejamento Urbano
 
--   **Coordenação:** Em breve!
+-   **Coordenação:** Guilherme Dias
 -   **Descrição:** Em breve!
 
 #### GT 4: Produção, Consumo e Resíduos Sólidos
 
--   **Coordenação:** Em breve!
+-   **Coordenação:** [Gina Rizpah Besen](http://lattes.cnpq.br/8550871208092441)
 -   **Descrição:** Em breve!
 
 #### GT 5: Governança e Uso dos Recursos Naturais
@@ -49,7 +49,7 @@ Acesse a página sobre [submissão de trabalhos](submissao.qmd) para saber mais 
 #### GT 7: Políticas Públicas e Direito Socioambiental
 
 -   **Coordenação:** [Ana Paula Fracalanza](http://lattes.cnpq.br/2494379445883981)
--   **Descrição:** Em breve!
+-   **Descrição:** Discutir temáticas relacionadas à formulação, implementação, avaliação e financiamento de políticas ambientais, assim como a gestão de políticas públicas em múltiplas escalas geográficas e níveis. Estabelecer um diálogo sobre a governança dos recursos naturais, considerando tanto os princípios da Economia Ambiental quanto da Economia Ecológica e abordar o ciclo de extração, produção, consumo e descarte de resíduos.
 
 #### GT 8: Comunicação, Educação Climática e Enfrentamento à desinformação
 
