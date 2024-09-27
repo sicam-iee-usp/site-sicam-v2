@@ -1,0 +1,57 @@
+---
+title: "Informações gerais"
+title-block-banner: true
+toc: true
+---
+## Local
+
+O evento será 100% presencial, no Instituto de Energia e Ambiente da Universidade de São Paulo (IEE/USP).
+
+**Endereço:** Avenida Professor Luciano Gualberto, 1289, Cidade Universitária CEP 05508-010 - Butantã - São Paulo.
+
+<center>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14629.169417788255!2d-46.7333307!3d-23.5579413!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5616b27b7ba5%3A0xbf3891c8c2f7a2cf!2sInstitute%20of%20Electrotechnics%20and%20Energy%20of%20the%20University%20of%20S%C3%A3o%20Paulo!5e0!3m2!1sen!2sbr!4v1725023110255!5m2!1sen!2sbr" width="80%" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>
+
+</center>
+
+
+## Como chegar de transporte público
+
+### Metrô e ônibus
+
+A estação de metrô mais próxima da USP Campus Butantã é a estação "Butantã" da Linha 4 Amarela. O metrô em São Paulo custa R$ 5,00. 
+
+Na estação Butantã existe um terminal de ônibus,e alguns deles passam próximo ao IEE:
+
+- Linha 8082 - Cid. Universitária - Metrô Butantã: Descer no ponto IPT (R$4,40)
+
+- Linha 8084 - Cid. Universitária Circular - Descer no ponto Poli-Eletrônica (R$4,40)
+
+Outras Linhas de Ônibus - descer na Poli-Biênio:
+
+- 177H-10 - Terminal Santana - Cidade Universitária (R$4,40)
+
+- 280BI1 - São Bernardo (R$13,05)
+
+- 7181-10 - Terminal Princesa Isabel - Cidade Universitária (R$4,40)
+
+- 7411-10 - Praça da Sé - Cidade Universitária (R$4,40)
+
+- 857R-10 - Barra Funda - Cidade Universitária (R$4,40)
+
+### Trem
+
+A estação mais próxima é a "Cidade Universitária", da Linha 9 Esmeralda da CPTM.
+
+Atenção: é necessário atravessar uma ponte para entrar na USP, através da portaria de pedestres. É uma caminhada de aproximadamente 550 metros.
+
+Após entrar na USP pela portaria de pedestres, é possível pegar o ônibus 8082 (R$4,40) e descer no ponto do IPT.
+
+
+
+## Alimentação
+
+Em breve!
