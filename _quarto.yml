@@ -40,6 +40,8 @@ website:
           - grupos-tematicos.qmd 
       - text: "Programação"
         href: programacao.qmd
+      - text: "Informações gerais"
+        href: informacoes.qmd        
       - text: "Inscreva-se"
         href: "https://forms.gle/gpKEwHUSp4buPav17"
 

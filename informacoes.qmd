@@ -3,6 +3,11 @@ title: "Informações gerais"
 title-block-banner: true
 toc: true
 ---
+
+## Informações Gerais
+
+Boas vindas ao SICAM! Aqui você encontrará informações necessárias para chegar ao local do evento, além de dicas de transporte e alimentação na região.
+
 ## Local
 
 O evento será 100% presencial, no Instituto de Energia e Ambiente da Universidade de São Paulo (IEE/USP).
@@ -17,41 +22,125 @@ O evento será 100% presencial, no Instituto de Energia e Ambiente da Universida
 
 </center>
 
+[Veja a localização no Google Maps](https://www.google.com/maps/place/Institute+of+Electrotechnics+and+Energy+of+the+University+of+S%C3%A3o+Paulo/@-23.5579413,-46.7333307,14z)
 
 ## Como chegar de transporte público
 
 ### Metrô e ônibus
 
-A estação de metrô mais próxima da USP Campus Butantã é a estação "Butantã" da Linha 4 Amarela. O metrô em São Paulo custa R$ 5,00. 
+A estação de metrô mais próxima da USP Campus Butantã é a estação "Butantã" da Linha 4 Amarela. O metrô em São Paulo custa R\$ 5,00.
 
-Na estação Butantã existe um terminal de ônibus,e alguns deles passam próximo ao IEE:
+Na estação Butantã existe um terminal de ônibus, e alguns deles passam próximo ao IEE:
 
-- Linha 8082 - Cid. Universitária - Metrô Butantã: Descer no ponto IPT (R$4,40)
+-   Linha 8082 - Cid. Universitária - Metrô Butantã: Descer no ponto IPT (R\$4,40)
 
-- Linha 8084 - Cid. Universitária Circular - Descer no ponto Poli-Eletrônica (R$4,40)
+-   Linha 8084 - Cid. Universitária Circular - Descer no ponto Poli-Eletrônica (R\$4,40)
 
 Outras Linhas de Ônibus - descer na Poli-Biênio:
 
-- 177H-10 - Terminal Santana - Cidade Universitária (R$4,40)
+-   177H-10 - Terminal Santana - Cidade Universitária (R\$4,40)
 
-- 280BI1 - São Bernardo (R$13,05)
+-   280BI1 - São Bernardo (R\$13,05)
 
-- 7181-10 - Terminal Princesa Isabel - Cidade Universitária (R$4,40)
+-   7181-10 - Terminal Princesa Isabel - Cidade Universitária (R\$4,40)
 
-- 7411-10 - Praça da Sé - Cidade Universitária (R$4,40)
+-   7411-10 - Praça da Sé - Cidade Universitária (R\$4,40)
 
-- 857R-10 - Barra Funda - Cidade Universitária (R$4,40)
+-   857R-10 - Barra Funda - Cidade Universitária (R\$4,40)
+
+[Informações sobre as linhas de ônibus estão disponíveis no site da SPTrans](https://www.sptrans.com.br/)
 
 ### Trem
 
 A estação mais próxima é a "Cidade Universitária", da Linha 9 Esmeralda da CPTM.
 
-Atenção: é necessário atravessar uma ponte para entrar na USP, através da portaria de pedestres. É uma caminhada de aproximadamente 550 metros.
+**Atenção**: é necessário atravessar uma ponte para entrar na USP, através da portaria de pedestres. É uma caminhada de aproximadamente 550 metros.
 
-Após entrar na USP pela portaria de pedestres, é possível pegar o ônibus 8082 (R$4,40) e descer no ponto do IPT.
-
-
+Após entrar na USP pela portaria de pedestres, é possível pegar o ônibus 8082 (R\$4,40) e descer no ponto do IPT.
 
 ## Alimentação
 
-Em breve!
+Para estudantes da USP, é possível acessar o restaurante universitário (conhecido como Bandejão).
+
+Para visitantes, existem alguns restaurantes e lanchonetes em alguns institutos da USP. Não existe restaurante e lanchonete dentro do IEE/USP (local do evento).
+
+**Lanchonete do IME**
+
+Distância: 450m
+
+Endereço: R. do Matão, 1010 - Butantã, São Paulo - SP, 05508-090
+
+Preço por pessoa: R\$ 30–40
+
+<https://maps.app.goo.gl/4WJX858YxXRhVo1E8>
+
+**Lanchonete da FAU**
+
+Distância: 550m
+
+Endereço: Universidade de São Paulo - R. do Lago, 876 - Butantã, São Paulo - SP, 05508-080
+
+Horário de funcionamento: Aberto 7:00 ⋅ Fecha às 20:00
+
+Preço por pessoa: R\$ 20–40
+
+<https://g.co/kgs/6praoCG>
+
+\*não é a lanchonete da cooperativa Monte Sinai. Atualmente há outra operando no local. 
+
+\*possui salgados veganos
+
+<https://kadalora.com.br/#lojas>
+
+**Restaurante por Kg - Instituto de Física**
+
+Distância: 650m
+
+Restaurante por kilo, ao lado da livraria da Física.
+
+**NÃO** recomendado para pessoas com alergia à abelhas.
+
+Rua do Matão Travessa R, 187 - Butantã, São Paulo - SP, 05508-090
+
+Preço por pessoa: R\$ 20–40\
+<https://maps.app.goo.gl/t7F3BKzMb1xMcBdt8>
+
+**Sweden Restaurante**
+
+Distância: 800m
+
+Endereço: Av. Prof. Lúcio Martins Rodrigues, 4 - Butantã, São Paulo - SP, 05508-020
+
+Horário de funcionamento: Aberto ⋅ Fecha às 21:30
+
+Telefone: (11) 94700-1624
+
+Preço por pessoa: R\$ 40–60
+
+<https://g.co/kgs/dzi3c2f>\
+
+**Lanchonete da Letras**
+
+Distância: 900m
+
+Endereço: 05508-010, Av. Prof. Luciano Gualberto, 298-460 - Butantã, São Paulo - SP, 05508-010
+
+Horário de funcionamento: Aberto ⋅ Fecha às 21:15
+
+Preço por pessoa: R\$ 20–40
+
+<https://g.co/kgs/KdCf7rk>
+
+**Restaurante do Viveiro**
+
+Distância: 950m
+
+Endereço: R. do Matão, 801 - Butantã, São Paulo - SP, 05508-090
+
+Horário de funcionamento: Aberto ⋅ Fecha às 14:30
+
+Telefone: (11) 99247-5016
+
+Preço por pessoa: R\$ 20–40
+
+<https://g.co/kgs/yVmw5xi>\
