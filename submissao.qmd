@@ -4,12 +4,13 @@ title-block-banner: true
 toc: true
 ---
 
-<center><b>Submissões encerradas!</b></center>
+<center><a href="/submissoes-aprovadas.qmd" ><button type="button" class="btn btn-info">Confira as submissões aprovadas </button></center></a>
+
 
 ## Calendário de submissão
 
 | Data | Descrição |
-|-----------------------|------------------------------------------------|
+|------------------------|------------------------------------------------|
 | 05/08/2024 | Abertura das submissões de trabalhos |
 | **22/09/2024** | Prazo final para submissão de trabalhos (**PRORROGADO**) |
 | 04/10/2024 | Data prevista para divulgação dos resultados dos trabalhos submetidos |
@@ -20,9 +21,7 @@ toc: true
 
 As pessoas interessadas em participar do evento terão a opção de submeter seus trabalhos em forma de **apresentação oral** ou **apresentação de pôster**, distribuídos em [**Grupos Temáticos (GTs)**](grupos-tematicos.qmd).
 
-<center><a href="/grupos-tematicos.qmd" ><button type="button" class="btn btn-info">Confira os Grupos Temáticos </button></center>
-
-</a>
+<center><a href="/grupos-tematicos.qmd" ><button type="button" class="btn btn-info">Confira os Grupos Temáticos </button></center></a>
 
 Os trabalhos, a serem divulgados pelos participantes, envolverão aspectos sociais, econômicos, tecnológicos, urbanos, rurais, ambientais, dentre outros que englobam a interdisciplinar temática ambiental. A divulgação dos trabalhos busca maior integração não apenas com o meio acadêmico, mas também entre profissionais que atuam nas diversas frentes que envolvem o meio ambiente.
 

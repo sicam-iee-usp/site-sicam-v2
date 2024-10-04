@@ -8,6 +8,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
+<center><a href="/submissoes-aprovadas.qmd" ><button type="button" class="btn btn-info">Confira as submissões aprovadas </button></center></a>
+
 Nesta quinta edição, o SICAM conta com 11 grupos temáticos.
 
 Acesse a página sobre [submissão de trabalhos](submissao.qmd) para saber mais sobre como submeter seu trabalho.

@@ -38,6 +38,7 @@ website:
         menu:
           - submissao.qmd   
           - grupos-tematicos.qmd 
+          - submissoes-aprovadas.qmd
       - text: "Programação"
         href: programacao.qmd
       - text: "Informações gerais"
