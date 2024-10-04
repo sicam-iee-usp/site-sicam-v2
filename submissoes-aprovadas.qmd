@@ -92,8 +92,6 @@ toc: true
 
 -   Ana Claudia de Almeida - MUDANÇA INSTITUCIONAL E FINANCIAMENTO DA ADAPTAÇÃO CLIMÁTICA – ANÁLISE DO FUNDO INTERNACIONAL PARA DESENVOLVIMENTO AGRÍCOLA
 
--   Livia Ferreira Pugliesi - APLICAÇÃO DOS CONCEITOS DE DESCARBONIZAÇÃO E RETROFIT NA CONSTRUÇÃO CIVIL A PARTIR DA TRANSFORMAÇÃO AMBIENTAL
-
 -   Luiz Guilherme Ferreira Pires - Deliberação ou manipulação? Esvaziamento da Participação Social no Conselho Gestor de ZEIS do Jardim Keralux em face à Adaptação Climática
 
 -   Radmila Gravato Rodrigues - Análise dos dados do Índice de Desenvolvimento Sustentável de cidades (Brasil 2023) e sua correlação com o Índice de Desenvolvimento Humano
