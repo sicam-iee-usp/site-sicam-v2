@@ -30,8 +30,6 @@ toc: true
 
 -   Gabriel de Araujo Silva - Intérpretes da Floresta: Comparando florestas antropogênicas da Indigeneidade com a agrofloresta de Ernst Götsch.
 
--   Maria Julia Hatala Duarte Sallum - CLIMAZON: AVALIANDO AS PERCEPÇÕES DE COMUNIDADES DE PEQUENA ESCALA NA AMAZÔNIA SOBRE AS MUDANÇAS CLIMÁTICAS ATRAVÉS DE UM JOGO SÉRIO
-
 -   Renata Utsunomiya - Povos Indígenas e Impactos Socioculturais de Hidrelétricas na Amazônia Brasileira
 
 #### GT 3: Cidades Resilientes e Planejamento Urbano
