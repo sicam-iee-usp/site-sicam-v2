@@ -13,14 +13,15 @@
   text-align: center;
   background-image: url('img/sicam-2.jpg'); /* Caminho para a imagem */  
   background-size: contain; 
-  background-repeat: no-repeat; /* Evita que a imagem se repita */    height: 20em;
+  background-repeat: no-repeat; /* Evita que a imagem se repita */   height: 20em;
+  background-position: center;    /* centraliza X e Y */
   
 }
 
 .quarto-title-banner h1, .quarto-title-banner .h1, .quarto-title-banner h2, .quarto-title-banner .h2 {
   color: #FFFFFF !important;
   position: absolute;
-  top: 80%;       /* começa a 60% da altura do contêiner */
+  top: 85%;       /* começa a 60% da altura do contêiner */
   left: 50%;      /* posiciona a 50% da largura */
   transform: translate(-50%, -50%);
   text-align: center;
