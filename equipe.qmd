@@ -49,17 +49,6 @@ title-block-banner: true
 -   Currículo Lattes: <http://lattes.cnpq.br/6020026257271594>
 
 > Geógrafo formado pela FFLCH/USP em 2021. Atualmente mestrando no Programa de Pós-Graduação em Ciência Ambiental, PROCAM-SP. Pesquisa governança em cenários de conflito hídrico trasnfronteiriço entre Brasil e Uruguai, tema o qual se debruça desde a Iniciação Científica na graduação. Também tem formação de jornalista pela Faculdade Cásper Líbero, com experiência em redação.
- 
-### Maria Mazzarello Pereira Veloso
-
-- Discente de doutorado no PROCAM
-- Orientada por: Prof. Dr. Massimo Di Felice
-- Email: [mariampveloso@usp.br](mailto:mariampveloso@usp.br)
-- Currículo Lattes: <http://lattes.cnpq.br/9640560792375373>
-
->  Engenheira química pela Universidade Federal da Bahia (UFBA) e mestre em Gestão de Competitividade com ênfase em Sustentabilidade pela Fundação Getulio Vargas (FGV-EAESP). Possui Pós-MBA em Governança, Riscos e Compliance pela Saint Paul Escola de Negócios e AMP - Advanced Management Program pelo IESE (Espanha). Além disso, tem MBA em Gestão de Pessoas pela FGV, é engenheira de segurança (UFBA), especialista em Processos Petroquímicos pela Sogesta-Universidade de Bolonha (Itália) e Higienista Industrial pela Poli-USP.
-Com mais de 30 anos de experiência internacional como executiva C-Level na indústria, atuou em empresas de alto risco e de consultoria em mais de 120 países. Empreendedora serial, atuando como conselheira de administração, fiscal e consultiva, e em comitês de governança desde 2007, Maria é professora de Governança, Sustentabilidade (ESG) e Riscos no SENAI CIMATEC e mentora de executivos.
-Pesquisadora no Centro Internacional de Pesquisa ATOPOS (ECA-USP), foca em governança digital, governança em rede, estratégias empresariais, transformação energética e comunidades energéticas. Autora de diversos artigos e capítulos de livros, participou de projetos internacionais de resiliência urbana com a Universidade de Yale e a Fundação Rockefeller, além de ter organizado importantes congressos e eventos acadêmicos, incluindo os Congressos ABRISCO e a WEB Série "Soluções Possíveis".
 
 
  
