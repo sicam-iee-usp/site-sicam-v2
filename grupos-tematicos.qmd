@@ -1,5 +1,6 @@
 ---
 title: "Grupos temáticos"
+title-block-banner: true
 ---
 
 ```{r setup, include=FALSE}
@@ -8,7 +9,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-<center><a href="/submissoes-aprovadas.qmd" ><button type="button" class="btn btn-info">Confira as submissões aprovadas </button></center></a>
+<center><a href="/submissoes-aprovadas.qmd" ><button type="button" class="btn btn-info">Confira as submissões aprovadas </button></center>
+
+</a>
 
 Nesta quinta edição, o SICAM conta com 11 grupos temáticos.
 
@@ -24,7 +27,7 @@ Acesse a página sobre [submissão de trabalhos](submissao.qmd) para saber mais 
 #### GT 2: Povos e Comunidades Tradicionais e Originárias: a integração do saber local e da ciência
 
 -   **Coordenação:** [Roberto Adrian Ribaric](http://lattes.cnpq.br/8963365713272264)
--   **Descrição:** Em breve!
+-   **Descrição:** Propõe um diálogo entre os conhecimentos tradicionais de povos originários e comunidades locais e o saber científico, visando a troca de experiências, a valorização de saberes ancestrais e a construção de abordagens integradas para a conservação ambiental e a justiça social. O objetivo é promover a cooperação intercultural e prática que reconheçam e integrem essas diferentes formas de conhecimento.
 
 #### GT 3: Cidades Resilientes e Planejamento Urbano
 
@@ -60,15 +63,15 @@ Acesse a página sobre [submissão de trabalhos](submissao.qmd) para saber mais 
 
 #### GT 9: Transformações Tecnológicas para a Ciência Ambiental
 
--   **Coordenação:** [Massimo Di Felici](http://lattes.cnpq.br/9759944648465918)
--   **Descrição:** Em breve!
+-   **Coordenação:** [Pedro Roberto Jacobi](http://lattes.cnpq.br/6799067928413168)
+-   **Descrição:** Explorar o papel das inovações tecnológicas no avanço da ciência ambiental, discutindo como ferramentas podem contribuir para o monitoramento, conservação e gestão dos ecossistemas. O objetivo é fomentar a integração de tecnologias emergentes com pesquisas ambientais, promovendo soluções eficientes para os desafios ecológicos e climáticos contemporâneos.
 
 ## Eixo 3 - Análise Sociotécnica e Modelagem Socioambiental
 
 #### GT 10: Geotecnologias e Modelagem em Ciência Ambiental
 
 -   **Coordenação:** [Jose Alberto Quintanilha](http://lattes.cnpq.br/1334398456531126)
--   **Descrição:** Em breve!
+-   **Descrição:**  Discutir as transformações ambientais a partir de uma abordagem multidimensional (ecológica, social, política e econômica), empregando geotecnologias e modelagem para prever impactos climáticos e embasar decisões. Objetiva integrar conhecimentos científicos e tecnológicos na busca de soluções para os desafios planetários atuais.
 
 #### GT 11: Inovação, Transformações e Transições para a Sustentabilidade
 
