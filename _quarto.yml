@@ -34,17 +34,17 @@ website:
           - sobre-o-evento.qmd
           - equipe.qmd
           - edicoes-anteriores.qmd
-      - text: "Submissão"
+      - text: "V SICAM"
         menu:
           - submissao.qmd   
           - grupos-tematicos.qmd 
           - submissoes-aprovadas.qmd
-      - text: "Programação"
-        href: programacao.qmd
-      - text: "Informações gerais"
-        href: informacoes.qmd        
-      - text: "Inscreva-se"
-        href: "https://forms.gle/gpKEwHUSp4buPav17"
+          - programacao.qmd
+          - informacoes.qmd  
+      - text: "Anais V SICAM"
+        href: "/anais-v-sicam.pdf"        
+      # - text: "Inscreva-se"
+      #   href: "https://forms.gle/gpKEwHUSp4buPav17"
 
                 
       

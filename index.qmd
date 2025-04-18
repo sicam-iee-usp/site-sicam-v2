@@ -12,6 +12,8 @@ page-layout: full
 title-block-banner: true
 ---
 
+<center><a href="/anais-v-sicam.pdf" target="_blank"><button type="button" class="btn btn-warning">Confira os Anais do V SICAM!</button></center></a>
+
 ## Novidades
 
 ::: {#listing-posts}
@@ -19,7 +21,7 @@ title-block-banner: true
 
 ## Realização
 
-::: grid
+:::::: grid
 ::: g-col-4
 ![](img/apoio/usp.png){fig-align="center"}
 :::
@@ -31,4 +33,4 @@ title-block-banner: true
 ::: g-col-4
 ![](img/apoio/procam.jpeg){fig-align="center"}
 :::
-:::
+::::::
