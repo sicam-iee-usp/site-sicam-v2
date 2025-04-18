@@ -1,5 +1,6 @@
 ---
 title: "V Simpósio Interdisciplinar de Ciência Ambiental"
+title-block-banner: true
 listing:
   id: listing-posts
   contents: posts
@@ -9,10 +10,11 @@ listing:
   sort-ui: false
   filter-ui: false
 page-layout: full
-title-block-banner: true
 ---
 
-<center><a href="/anais-v-sicam.pdf" target="_blank"><button type="button" class="btn btn-warning">Confira os Anais do V SICAM!</button></center></a>
+<center><a href="/anais-v-sicam.pdf" target="_blank"><button type="button" class="btn btn-warning">Confira os Anais do V SICAM!</button></center>
+
+</a>
 
 ## Novidades
 

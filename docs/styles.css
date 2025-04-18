@@ -1,35 +1,31 @@
 /* css styles */
 
-.quarto-title-banner-image {
-  margin-bottom: 0em;
-  color: #ffffff;
-  /*background: #304387;*/
-  background-image: url('img/sicam-2.jpg'); /* Caminho para a imagem */
-  background-size: cover; /* Ajusta a imagem para cobrir todo o banner */
-  background-repeat: no-repeat; /* Evita que a imagem se repita */
-  display: flex; /* Ativa o flexbox */
-  align-items: right; 
-  height: 20em;
-  justify-content: flex-end; /* Centraliza horizontalmente (opcional) */
-}
 
 #title-block-header{
   background-color: #304387;
+  color: #ffffff;
 }
 
-.quarto-title-banner {
-  margin-bottom: 0em;
+.quarto-title-block .quarto-title-banner {
+  margin-bottom: 5em;
   color: #FFFFFF;
   background: #304387;
   text-align: center;
+  background-image: url('img/sicam-2.jpg'); /* Caminho para a imagem */  
+  background-size: contain; 
+  background-repeat: no-repeat; /* Evita que a imagem se repita */    height: 20em;
+  
 }
 
 .quarto-title-banner h1, .quarto-title-banner .h1, .quarto-title-banner h2, .quarto-title-banner .h2 {
   color: #FFFFFF !important;
-}
-
-.quarto-title-banner h1, .quarto-title-banner .h1, .quarto-title-banner h2, .quarto-title-banner .h2 {
-  color: #FFFFFF;
+  position: absolute;
+  top: 80%;       /* começa a 60% da altura do contêiner */
+  left: 50%;      /* posiciona a 50% da largura */
+  transform: translate(-50%, -50%);
+  text-align: center;
+  width: 100%;    /* para garantir que text-align funcione */
+  
 }
 
 

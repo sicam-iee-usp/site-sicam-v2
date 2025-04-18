@@ -61,8 +61,7 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    template-partials:
-      - partials/title-block.html
+
 
 editor: visual
 
