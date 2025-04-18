@@ -12,7 +12,7 @@ title-block-banner: true
 -   Email: [agatabrito\@usp.br](mailto:agatabrito@usp.br)
 -   Currículo Lattes: <http://lattes.cnpq.br/0131444454529370>
 
->  Possui graduação em Relações Internacionais pelo Centro Universitário FECAP (2013) e mestrado em Ciência Política pela Universidade de São Paulo (2018). Tem experiência na área de Ciência Política, com ênfase em Política Internacional, atuando principalmente no seguinte tema: china. estados unidos, mudanças climáticas. Atualmente Doutoranda no Instituto de Energia e Ambiente da Universidade de São Paulo, no Programa de Ciências Ambientais (PROCAM). Pesquisadora no Grupo de Pesquisa Geografia Politica e Meio Ambiente do laboratório de Geografia Política (GEOPO), WATERLAT/GOBACIT, Rede de pesquisa geografia das águas. Tem interesse especial nas áreas de relações internacionais, meio ambiente, hidropolítica e cooperação transfronteriça, desenvolvimento sustentável, governança ambiental e política ambiental internacional.
+> Possui graduação em Relações Internacionais pelo Centro Universitário FECAP (2013) e mestrado em Ciência Política pela Universidade de São Paulo (2018). Tem experiência na área de Ciência Política, com ênfase em Política Internacional, atuando principalmente no seguinte tema: china. estados unidos, mudanças climáticas. Atualmente Doutoranda no Instituto de Energia e Ambiente da Universidade de São Paulo, no Programa de Ciências Ambientais (PROCAM). Pesquisadora no Grupo de Pesquisa Geografia Politica e Meio Ambiente do laboratório de Geografia Política (GEOPO), WATERLAT/GOBACIT, Rede de pesquisa geografia das águas. Tem interesse especial nas áreas de relações internacionais, meio ambiente, hidropolítica e cooperação transfronteriça, desenvolvimento sustentável, governança ambiental e política ambiental internacional.
 
 ### Agnes de Oliveira Franco
 
@@ -40,36 +40,35 @@ title-block-banner: true
 -   Currículo Lattes: <http://lattes.cnpq.br/3994152994723081>
 
 > Possui graduação em Direito e especialização em Direito Ambiental, ambas pela Universidade Federal do Paraná (UFPR). Mestrando pelo Programa de Pós-Graduação em Ciência Ambiental (PROCAM) do Instituto de Energia e Ambiente da Universidade de São Paulo (IEE-USP). Estuda políticas públicas ambientais, a regulação jurídica da natureza e o papel do conhecimento científico no processo de tomadas de decisões institucionais. Atualmente é Residente Jurídico no Centro de Apoio as Promotorias de Meio Ambiente, Habitação e Urbanismo (CAOPMAHU) do Ministério Público do Estado do Paraná.
- 
-### Henrique Castro Barbosa 
 
-- Discente de mestrado no PROCAM
-- Orientado por: Prof. Dr. Wagner Costa Ribeiro
-- Email: [henrique.castro.barbosa@usp.br](mailto:henrique.castro.barbosa@usp.br)
+### Henrique Castro Barbosa
+
+-   Discente de mestrado no PROCAM
+-   Orientado por: Prof. Dr. Wagner Costa Ribeiro
+-   Email: [henrique.castro.barbosa\@usp.br](mailto:henrique.castro.barbosa@usp.br)
 -   Currículo Lattes: <http://lattes.cnpq.br/6020026257271594>
 
 > Geógrafo formado pela FFLCH/USP em 2021. Atualmente mestrando no Programa de Pós-Graduação em Ciência Ambiental, PROCAM-SP. Pesquisa governança em cenários de conflito hídrico trasnfronteiriço entre Brasil e Uruguai, tema o qual se debruça desde a Iniciação Científica na graduação. Também tem formação de jornalista pela Faculdade Cásper Líbero, com experiência em redação.
 
 
- 
 ### Tainá Ângela Vedovello Bimbati
 
-- Discente de doutorado no PROCAM
-- Orientada por: Profa. Dra. Sylmara Francelino Lopes Gonçalves-Dias
-- Email: [tainabimbati@usp.br](mailto:tainabimbati@usp.br)
-- Currículo Lattes: <http://lattes.cnpq.br/0417333466889749>
+-   Discente de doutorado no PROCAM
+-   Orientada por: Profa. Dra. Sylmara Francelino Lopes Gonçalves-Dias
+-   Email: [tainabimbati\@usp.br](mailto:tainabimbati@usp.br)
+-   Currículo Lattes: <http://lattes.cnpq.br/0417333466889749>
 
->  Engenheira Ambiental pela Faculdade Municipal Prof. Franco Montoro (2013), Mestra em Engenharia Civil pelo Departamento de Saneamento e Ambiente da Faculdade de Engenharia Civil, Arquitetura e Urbanismo da Universidade Estadual de Campinas (FECFAU/UNICAMP) (2017) e Doutoranda pelo Programa de Pós-Graduação em Ciência Ambiental (PROCAM) do Instituto de Energia e Ambiente da Universidade de São Paulo (IEE-USP). Possui mais de 10 anos de experiência em consultoria e pesquisa em resíduos sólidos, coleta seletiva, logística reversa, inclusão de catadores de materiais recicláveis em ações de responsabilidade compartilhada e reciclabilidade.
- 
+> Engenheira Ambiental pela Faculdade Municipal Prof. Franco Montoro (2013), Mestra em Engenharia Civil pelo Departamento de Saneamento e Ambiente da Faculdade de Engenharia Civil, Arquitetura e Urbanismo da Universidade Estadual de Campinas (FECFAU/UNICAMP) (2017) e Doutoranda pelo Programa de Pós-Graduação em Ciência Ambiental (PROCAM) do Instituto de Energia e Ambiente da Universidade de São Paulo (IEE-USP). Possui mais de 10 anos de experiência em consultoria e pesquisa em resíduos sólidos, coleta seletiva, logística reversa, inclusão de catadores de materiais recicláveis em ações de responsabilidade compartilhada e reciclabilidade.
+
 ### Vanessa Victor da Cruz de Souza
 
-- Egressa do PROCAM
-- Orientada por: Profa. Dra. Ana Paula Fracalanza
-- Email: [nessavictor@usp.br](mailto:nessavictor@usp.br)
-- Currículo Lattes: <http://lattes.cnpq.br/0519890571067525>
+-   Egressa do PROCAM
+-   Orientada por: Profa. Dra. Ana Paula Fracalanza
+-   Email: [nessavictor\@usp.br](mailto:nessavictor@usp.br)
+-   Currículo Lattes: <http://lattes.cnpq.br/0519890571067525>
 
 > Possui formação em Geografia pela UNIMONTES, mestrado em Administração e Sustentabilidade pela UNINOVE, e doutorado em Ciências pelo Programa de Pós-Graduação em Ciência Ambiental (PROCAM) do IEE. Atualmente, realiza pós-doutorado no IEE, na linha de pesquisa em Governança, Impacto e Modelagem Socioambiental.
- 
+
 ### Vítor Soares Miceli
 
 -   Discente de mestrado no PROCAM
