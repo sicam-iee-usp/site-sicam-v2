@@ -1,0 +1,21 @@
+---
+title: "Anais do V SICAM disponíveis"
+author: "Comissão Organizadora"
+date: "2025-04-18"
+image: "img/v-sicam-anais-print.png"
+---
+
+Os Anais do V SICAM já estão publicados e prontos para consulta!
+
+Nos Anais é possível acessar um registro das principais atividades que ocorreram durante o evento, registros fotográficos, facilitações gráficas elaboradas durante o evento, informações sobre os GTs, resumos expandidos, artigos completos e muito mais!
+
+<center><a href="/anais-v-sicam.pdf" target="_blank"><button type="button" class="btn btn-warning">Confira os Anais do V SICAM!</button></center>
+
+</a>
+
+![Página sobre a abertura](img/v-sicam-anais-print.png){fig-align="center"}
+
+Atenciosamente,
+
+Comissão Organizadora V SICAM\
+PROCAM / IEE‑USP
